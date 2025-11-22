@@ -1,55 +1,55 @@
 ## Operators:
-=> it can perform any specific operation between two values/Operands.
+ #=> it can perform any specific operation between two values/Operands.
 
 
-4 + 5 => it can perform addition 
-4 * 5 => it can perform multiplication 
+#4 + 5 => it can perform addition 
+#4 * 5 => it can perform multiplication 
 
-=> 4 and  5 => are values/Operands 
-=> +, *, - =>  are the operators
+#=> 4 and  5 => are values/Operands 
+#=> +, *, - =>  are the operators
 
 
-Types of Operators:
-1. Arithmetic Operators
-2. Assignment Operators
-3. Comparison Operators
-4. Logical Operators
-5. Bitwise Operators
-6. Membership Operators
-7. Identity Operators
+#Types of Operators:
+##1. Arithmetic Operators
+#2. Assignment Operators
+#3. Comparison Operators
+#4. Logical Operators
+#5. Bitwise Operators
+#6. Membership Operators
+#7. Identity Operators
 
 # ------------------------------------------------ 
 
-1. Arithmetic Operators:
-=> it is used to perform mathematical operations between two values/Operands.
+#1. Arithmetic Operators:
+#=> it is used to perform mathematical operations between two values/Operands.
 
-Operators: +, -, *, /, %, //, **
+#Operators: +, -, *, /, %, //, **
 
-+ => Addition
-- => Subtraction
-* => Multiplication
-/ => Division
-% => Modulus
-// => Floor Division
-** => Exponentiation
+#+ => Addition
+#- => Subtraction
+#* => Multiplication
+#/ => Division
+#% => Modulus
+#// => Floor Division
+#** => Exponentiation
 
-3**6 => 3^6 => 3*3*3*3*3*3 => 729
+#3**6 => 3^6 => 3*3*3*3*3*3 => 729
 
-4**2 => 4*4 = 16
+#4**2 => 4*4 = 16
 
 
 ## Division operator ("/") => it gives us Quient value.
-=> it includes the decimal part.
+#=> it includes the decimal part.
 
-Ex: 3.5, 4.6, 4.1, 2.5 etc. 
+#Ex: 3.5, 4.6, 4.1, 2.5 etc. 
 
 ## Floor Division ("//") => it gives us Quient value.
-=> it removes the decimal part .
+#=> it removes the decimal part .
 
 ## Modulus ("%") => it gives us the remainder part .
 
 
-2. Membership Operators : in, not in
+#2. Membership Operators : in, not in
 # in => it returns True if the value is present in the sequence otherwise it returns False
 
 # not in => it returns True if the value is not present in the sequence otherwise it returns False
@@ -62,7 +62,7 @@ print(" 10 in list1: ", 10 in list1)  # True
 print(" 100 in list1: ", 100 in list1)  # False
 print(" 100 not in list1: ", 100 not in list1)  # True
 
-3. Assignment Operators: =, +=, -=, *=, /=, %=, //=, **=
+#3. Assignment Operators: =, +=, -=, *=, /=, %=, //=, **=
 
 x = 20
 y = 5
@@ -77,11 +77,11 @@ print(x)
 
 # in future we will learn about Time complexity, Space complexity
 
-4. Comparison Operators: ==, !=, >, <, >=, <=
+#4. Comparison Operators: ==, !=, >, <, >=, <=
 
 # => in this case we will get the output in boolean format => True, False
 
-5. Logical Operators: and, or, not
+#5. Logical Operators: and, or, not
 
 # and => both the conditions should be true
 # or => any one condition should be true
@@ -89,34 +89,34 @@ print(x)
 
 
 
-6. Bitwise Operators: &, |, ^, ~, <<, >>
+#6. Bitwise Operators: &, |, ^, ~, <<, >>
 
 # & =>  Bitwise AND
 # | =>  Bitwise OR           
 # ^ =>  Bitwise XOR
 # ~ =>  Bitwise NOT
 
-0 => 0000
-1=> 0001
-2 => 0010
-3 => 0011
-4 => 0100
-5 => 0101
-6 => 0110
-7 => 0111
-8 => 1000
-9 => 1001
-10 => 1010
-11 => 1011
-12 => 1100
-13 => 1101
-14 => 1110
-15 => 1111
+#0 => 0000
+#1=> 0001
+#2 => 0010
+#3 => 0011
+#4 => 0100
+#5 => 0101
+#6 => 0110
+#7 => 0111
+#8 => 1000
+#9 => 1001
+#10 => 1010
+#11 => 1011
+#12 => 1100
+#13 => 1101
+#14 => 1110
+#15 => 1111
 
 
-Hexadecimal ( 16 digts)
+#Hexadecimal ( 16 digts)
 
-Digital Electronics 
+#Digital Electronics 
 
 # Operators: +, -, *, /, %, //, **
 
