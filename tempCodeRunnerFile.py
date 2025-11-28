@@ -1,7 +1,6 @@
-value_1 = 17 #=> Wrong
+my_list = [ 'Ravi', 'Sonu', 'Ziyarat', 'Ujwal' ]
+print("Last element of my_list: ", my_list[-1])
+print("Second last element of my_list: ", my_list[-2])
+print("Third last element of my_list: ", my_list[-3])
+print("Fourth last element of my_list: ", my_list[-4])
 
-Value_33 = 777# => right
-
-_first_name = "SHarik" #=> rigte
-
-first_1_name = "WIlmot"# => right
