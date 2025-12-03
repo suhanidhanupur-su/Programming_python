@@ -1,13 +1,6 @@
 x = 10
-y = 3
-print("the output of x + y : ", x + y)  # Addition
-print("the output of x - y : ", x - y)  # Subtraction
-print("the output of x * y : ", x * y)  # Multiplication
-print("Hii, Ravi, You can see the value of x and y : ")  
-print("hii, this is Zeyarat")
-
-print("the output of division : ", x / y)  # Division
-print("the output of floor division : ", x // y)  # Floor Division
-print("the output of modulus : ", x % y)  # Modulus
-
-print("the output of exponentiation : ", 2 ** 4)  # Exponentiation
+y = 5
+print("the sum of x and y is: ", x + y)
+# x  = x + y
+x += y  # x = x + y
+print("the value of x after adding y is: ", x)
