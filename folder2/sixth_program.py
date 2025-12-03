@@ -10,5 +10,5 @@ if my_num > 0:
 elif my_num == 0:
                    print("it is zero")
 else:
-                   print("it is negative number")
+                  print("it is negative number")
 
